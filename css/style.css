@@ -1,0 +1,50 @@
+.playerone{
+    text-align: center;
+}
+.playertwo{
+    text-align: center;
+    display: none;
+}
+.playeroneerr{
+    color: red;
+}
+.playeroneinput{
+    padding: 10px 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: 1px solid brown;
+}
+.playeronebtn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: aquamarine;
+    border: none;
+    font-weight: 600;
+}
+.playertwoinput{
+    padding: 10px 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border: 1px solid brown;
+}
+.playertwobtn{
+    padding: 10px 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: aquamarine;
+    border: none;
+    font-weight: 600;
+}
